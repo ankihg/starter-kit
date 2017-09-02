@@ -22,7 +22,7 @@
 
 <script>
 export default {
-  name: 'hello',
+  name: 'plz',
   data () {
     return {
       msg: 'Happy Cat Butt Dump'
