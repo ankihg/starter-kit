@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ankihg/ani-mate/issues"
   },
-  "homepage": "https://github.com/ankihg/ani-mate#readme"
+  "homepage": "https://github.com/ankihg/ani-mate#readme",
+  "dependencies": {
+    "mongoose": "^4.13.5"
+  }
 }

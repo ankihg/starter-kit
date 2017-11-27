@@ -25,7 +25,7 @@ export default {
   name: 'plz',
   data () {
     return {
-      msg: 'Happy Cat Butt Dump'
+      msg: 'i love butterflies'
     }
   }
 }
